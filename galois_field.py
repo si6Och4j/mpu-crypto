@@ -1,4 +1,5 @@
 import share
+#ip - irreducible polynomial
 
 def gf_mult(a, b, m=1, ip=0):
     result = 0
